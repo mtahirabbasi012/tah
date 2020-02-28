@@ -1,0 +1,20 @@
+div
+{
+    background-color: black;
+}
+
+#main{
+    background-color: darkgreen;
+    margin: 0px;
+    height: 80px;
+}
+#ta{
+    background-color: darkgreen;
+    margin: 0px;
+}
+li{
+    display: inline-block;
+    color:#ffffff;
+    margin: 5px;
+    
+}
